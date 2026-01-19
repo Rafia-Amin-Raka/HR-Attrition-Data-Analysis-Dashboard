@@ -70,12 +70,25 @@ All KPIs and visualizations update dynamically based on slicer selection.
 
 ## 🔍 Key Insights Provided
 
-- Departments with the highest attrition  
-- Job roles most affected by employee turnover  
-- Age groups with higher attrition rates  
-- Impact of education and marital status on attrition  
+- The organization has a total of **1,470 employees**, out of which **237 employees have left**, resulting in an **attrition rate of 16.12%**.
+- **Sales** and **R&D** departments account for the highest share of attrition, contributing approximately **39%** and **56%** respectively, indicating department-specific retention challenges.
+- **Laboratory Technician** and **Sales Executive** roles show the highest attrition among job roles, highlighting critical positions with higher turnover.
+- Attrition is most prominent among employees aged **25–34 years**, suggesting early-career professionals are more likely to leave.
+- Employees with a **Bachelor’s degree** experience the highest attrition, followed by those with **Master’s** and **Associate degrees**, indicating education level influences attrition trends.
+- **Single employees** show higher attrition compared to married and divorced employees, suggesting personal and life-stage factors play a role.
+- Gender distribution shows a higher proportion of **male employees (60%)** compared to females (40%), which also reflects in overall attrition patterns.
 
 ---
+
+## ✅ Final Conclusion
+
+The HR Attrition Dashboard provides a **comprehensive and interactive view** of employee turnover across the organization. With an overall attrition rate of **16.12%**, the analysis reveals that attrition is concentrated within specific **departments, job roles, age groups, and education levels**.
+
+By leveraging **Excel Pivot Tables, charts, and slicers**, this dashboard enables HR professionals to quickly identify high-risk segments, monitor workforce stability, and support evidence-based retention strategies.  
+The project demonstrates that **Microsoft Excel** can be effectively used as a powerful analytics and visualization tool for HR decision-making without the need for advanced BI software.
+
+---
+
 
 ## 🎓 Learning Outcomes
 
