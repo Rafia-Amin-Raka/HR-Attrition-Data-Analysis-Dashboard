@@ -52,7 +52,9 @@ All KPIs and visualizations update dynamically based on slicer selection.
 
 ## 📂 Project Structure
 -<a href="https://github.com/Rafia-Amin-Raka/HR-Attrition-Data-Analysis-Dashboard/blob/main/HR%20Attrition%20Dashboard.xlsx">Dataset</a> 
+
 -<a href="https://github.com/Rafia-Amin-Raka/HR-Attrition-Data-Analysis-Dashboard/blob/main/HR%20Attrition%20Dashboard%20Screenshot.JPG"> Interactive Dassboard</a> 
+
 ![HR Attrition Dashboard Screenshot](https://github.com/user-attachments/assets/1327e481-a444-48ed-9b4c-c280ec24a7e9)
 
 ---
@@ -60,7 +62,7 @@ All KPIs and visualizations update dynamically based on slicer selection.
 ## 🚀 How to Run the Project
 
 1. Clone or download this repository  
-2. Open <a href="https://github.com/Rafia-Amin-Raka/HR-Attrition-Data-Analysis-Dashboard/blob/main/HR%20Attrition%20Dashboard.xlsx">HR_Attrition_Dashboard.xlsx</a>using Microsoft Excel  
+2. Open <a href="https://github.com/Rafia-Amin-Raka/HR-Attrition-Data-Analysis-Dashboard/blob/main/HR%20Attrition%20Dashboard.xlsx">HR_Attrition_Dashboard.xlsx</a> using Microsoft Excel  
 3. Enable editing if prompted  
 4. Use slicers to filter insights dynamically  
 
