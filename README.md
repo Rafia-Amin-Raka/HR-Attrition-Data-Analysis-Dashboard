@@ -51,5 +51,6 @@ All KPIs and visualizations update dynamically based on slicer selection.
 ---
 
 ## 📂 Project Structure
+<a href="https://github.com/Rafia-Amin-Raka/HR-Attrition-Data-Analysis-Dashboard/blob/main/HR%20Attrition%20Dashboard.xlsx">Dataset</a> 
 
 
