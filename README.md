@@ -51,6 +51,50 @@ All KPIs and visualizations update dynamically based on slicer selection.
 ---
 
 ## 📂 Project Structure
-<a href="https://github.com/Rafia-Amin-Raka/HR-Attrition-Data-Analysis-Dashboard/blob/main/HR%20Attrition%20Dashboard.xlsx">Dataset</a> 
+-<a href="https://github.com/Rafia-Amin-Raka/HR-Attrition-Data-Analysis-Dashboard/blob/main/HR%20Attrition%20Dashboard.xlsx">Dataset</a> 
+-<a href="https://github.com/Rafia-Amin-Raka/HR-Attrition-Data-Analysis-Dashboard/blob/main/HR%20Attrition%20Dashboard%20Screenshot.JPG> Interactive Dassboard</a> 
+![HR Attrition Dashboard Screenshot](https://github.com/user-attachments/assets/1327e481-a444-48ed-9b4c-c280ec24a7e9)
+
+---
+
+## 🚀 How to Run the Project
+
+1. Clone or download this repository  
+2. Open `HR_Attrition_Dashboard.xlsx` using Microsoft Excel  
+3. Enable editing if prompted  
+4. Use slicers to filter insights dynamically  
+
+---
+
+## 🔍 Key Insights Provided
+
+- Departments with the highest attrition  
+- Job roles most affected by employee turnover  
+- Age groups with higher attrition rates  
+- Impact of education and marital status on attrition  
+
+---
+
+## 🎓 Learning Outcomes
+
+- Hands-on experience with Excel Pivot Tables  
+- Building KPI-driven dashboards  
+- Applying HR analytics concepts  
+- Creating interactive and visually appealing reports  
+
+---
+
+## 📎 References
+
+- Color palettes: https://colorhunt.co/  
+- Icons: https://www.flaticon.com/  
+- Excel ColorIndex guide: https://www.excelsupersite.com/what-are-the-56-colorindex-colors-in-excel/  
+
+---
+
+## ✨ Author
+**Rafia**  
+HR Attrition Dashboard Project  
+
 
 
